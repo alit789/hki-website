@@ -53,7 +53,7 @@ export const NavigationBar = () => {
                 Beranda
               </Nav.Link>
               <Nav.Link id={isSearchPage ? "active" : "notActive"} href="/search">Search Movies</Nav.Link>
-              <Nav.Link href="www.linkedin.com/in/ngakanalit">About Me</Nav.Link>
+              <Nav.Link href="https://www.linkedin.com/in/ngakan-made-alit-wiradhanta-723604185/">About Me</Nav.Link>
             </div>
           </Nav>
         </Navbar.Collapse>
