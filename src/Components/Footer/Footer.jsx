@@ -28,8 +28,8 @@ const Footer = () => {
             <h6>Category</h6>
             <a style={{display:"block", textDecoration:'none', color:'white'}} className="mt-4">More Feature</a>
             <a style={{display:"block", textDecoration:'none', color:'white'}} href="/" className="mt-2">Beranda</a>
-            <a style={{display:"block", textDecoration:'none', color:'white'}} href="/" className="mt-2">Top Movies</a>
-            <a style={{display:"block", textDecoration:'none', color:'white'}} href="/" className="mt-2">About Us</a>
+            <a style={{display:"block", textDecoration:'none', color:'white'}} href="/search" className="mt-2">Search Movies</a>
+            <a style={{display:"block", textDecoration:'none', color:'white'}} href="www.linkedin.com/in/ngakanalit" className="mt-2">About Me</a>
           </div>
         </div>
       </div>
